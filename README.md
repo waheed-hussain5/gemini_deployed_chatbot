@@ -1,7 +1,7 @@
 # gemini_deployed_chatbot
 
 - This is a chatbot can be use for general quetions answering, generating text content, coding, traslation etc
-- The chatbot is using a geminin free api key for generating the responses
+- The chatbot is using a gemini free api key for generating the responses
 - A simple UI is also used for making it user friendly, while it may not be look perfect as it is not my domain
 - The chatbot is deployed on streamlit, giving free user interface and domain, while application hosted on github
 
